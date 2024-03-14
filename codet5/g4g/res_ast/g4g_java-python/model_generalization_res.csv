@@ -1,0 +1,9 @@
+type,rounds,wsr,ksr,mar,kmsr,rt
+no-generalization,1.302,0.009,0.009,0.032,0.04,0.323
+random truncation,6.186,0.044,0.046,0.101,0.147,0.431
+truncation at terminator,2.244,0.016,0.017,0.047,0.064,0.414
+truncation on the maximum AST subtree range,4.14,0.029,0.031,0.098,0.129,0.482
+keep with 0.9,1.384,0.01,0.01,0.033,0.042,0.327
+keep with 0.8,1.488,0.011,0.01,0.033,0.043,0.324
+keep with 0.7,2.14,0.015,0.015,0.041,0.056,0.33
+keep with 0.6,2.488,0.018,0.017,0.048,0.065,0.344
